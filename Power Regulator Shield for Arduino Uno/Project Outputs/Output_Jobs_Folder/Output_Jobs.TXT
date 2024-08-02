@@ -1,0 +1,28 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\BoardShield\Project Outputs for Power Regulator Shield for Arduino Uno\Output_Jobs_Folder\Output_Jobs.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/08/24
+Time:       18:03
+Revision:   831f745dc39f3fc8608a199eafb2f26537e792b2
+Variant:    No variations
+Units used: mil
+
+Designator Comment             Layer    Footprint                  Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                    
+U1         TPS562200DDCR       TopLayer SOT95P280X110-6N           1114.500      905.500       0        "Switching Regulator, 2A, 650kHz Switching Freq-Max, PDSO6"                                                                    
+R2         RC0201FR-0710KL     TopLayer CAPC0603X03N               1254.500      843.295       270      "Fixed Resistor, Metal Glaze/thick Film, 0.05W, 10000ohm, 25V, 1% +/-Tol, 200ppm/Cel, Surface Mount, 0201"                     
+R1         RC0201FR-0756K2L    TopLayer RESC0603X03N               1294.500      845.500       90       "Fixed Resistor, Metal Glaze/thick Film, 0.05W, 56200ohm, 25V, 1% +/-Tol, 200ppm/Cel, Surface Mount, 0201"                     
+L1         4.7uH               TopLayer INDP6060X45N               1479.500      824.000       270      "General Purpose Inductor, 4.7uH, 30%, 1 Element, Ferrite-Core, SMD, 2424"                                                     
+J4         SSQ-108-03-T-S      TopLayer SSQ-106-03-T-S-Footprint-2 2150.000      2000.000      0        "Board Connector, 8 Contact(s), 1 Row(s), Female, Straight, 0.1 inch Pitch, Solder Terminal, Black Insulator, Socket"          
+J3         SSQ-110-03-T-S      TopLayer SSQ-110-03-T-S-Footprint-2 1190.000      2000.000      0        "Board Connector, 10 Contact(s), 1 Row(s), Female, Straight, 0.1 inch Pitch, Solder Terminal, Black Insulator, Socket"         
+J2         SSQ-106-03-T-S      TopLayer SSQ-106-03-T-S-Footprint-2 2250.000      100.000       0        "Board Connector, 6 Contact(s), 1 Row(s), Female, Straight, 0.1 inch Pitch, Solder Terminal, Locking, Black Insulator, Socket" 
+J1         SSQ-108-03-T-S      TopLayer SSQ-106-03-T-S-Footprint-2 1450.000      100.000       0        "Board Connector, 8 Contact(s), 1 Row(s), Female, Straight, 0.1 inch Pitch, Solder Terminal, Black Insulator, Socket"          
+D2         1A/12V              TopLayer CREE-MK-R-2_V              871.000       1493.500      90       "LED, White, 12 V, 2-Pin SMD, RoHS, Tape and Reel"                                                                             
+D1         1A/12V              TopLayer CREE-MK-R-2_V              371.000       1493.500      90       "LED, White, 12 V, 2-Pin SMD, RoHS, Tape and Reel"                                                                             
+C5         22uF                TopLayer CAPC1608X100X20ML10        1244.500      625.500       180      "Chip Capacitor, 22 uF, +/- 20%, 10 V, -55 to 85 degC, 0603 (1608 Metric), RoHS, Tape and Reel"                                
+C4         22uF                TopLayer CAPC1608X100X20ML10        1244.500      725.500       180      "Chip Capacitor, 22 uF, +/- 20%, 10 V, -55 to 85 degC, 0603 (1608 Metric), RoHS, Tape and Reel"                                
+C3         100nF               TopLayer FP-CC0805-0_85-MFG         1274.500      965.500       90       "CAP CER 0.1UF 25V X7R 0805"                                                                                                   
+C2         C2012X5R1V106K085AC TopLayer CAPC2012X10N               974.000       865.500       270      "Ceramic Capacitor, Multilayer, Ceramic, 35V, 10% +Tol, 10% -Tol, X5R, 15% TC, 10uF, Surface Mount, 0805"                      
+C1         C2012X5R1V106K085AC TopLayer CAPC2012X10N               874.000       865.500       270      "Ceramic Capacitor, Multilayer, Ceramic, 35V, 10% +Tol, 10% -Tol, X5R, 15% TC, 10uF, Surface Mount, 0805"                      
