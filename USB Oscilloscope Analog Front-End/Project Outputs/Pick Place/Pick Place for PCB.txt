@@ -1,0 +1,35 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\USB_Scope_Analog_Front_End\Project Outputs for USB_Scope_Analog_Front_End\Pick Place\Pick Place for PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       28/07/24
+Time:       13:34
+Revision:   5ea0496b6c5a95cfe6eb3d1edb627da0e305ad90
+Variant:    No variations
+Units used: mil
+
+Designator Comment           Layer    Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                   
+U3         ADR4520ARZ        TopLayer ADI-R-8_M              1310.000      1145.000      90       "Ultralow Noise, High Accuracy Voltage Reference, 2.048 V Output, 3 to 15 V Supply, Industrial, 8-pin SOIC (R-8), Tube"       
+U2         AD8091ARTZ-R7     TopLayer ADI-RJ-5_M             1035.000      1215.000      270      "Single Channel Single-Supply Operation Operational Amplifier, 110 MHz BW, 170 V/us SR, Industrial, 5-pin SOT23 (RJ-5), Reel" 
+U1         AD8605ARTZ-REEL7  TopLayer ADI-RJ-5_M             922.244       652.402       0        "Single Channel Wide Bandwidth Operational Amplifier, 10 MHz BW, 5 V/us SR, Industrial, 5-pin SOT23 (RJ-5), Reel"             
+Rin        1M                TopLayer FP-MCR01-IPC_B         520.000       1125.000      0        "Thick Film Chip Resistor, 0402, 1MO, 0.5%, 50ppm/°C, 0.063W, 50V"                                                            
+Rf         100K              TopLayer FP-RP73P-1J-MFG        1030.000      1450.000      0        "RES SMD 100K OHM 0.1% 1/6W 0603"                                                                                             
+R4         470K              TopLayer FP-CR1206-IPC_C        1445.000      350.000       180      "Thick Film Chip Resistors 1206 470kO 0.25W 1% 100ppm/°C"                                                                     
+R3         47K               TopLayer FP-CR1206-IPC_B        1495.000      520.000       270      "Thick Film Chip Resistors 1206 47kO 0.25W 1% 100ppm/°C"                                                                      
+R2         1M                TopLayer FP-MCR01-IPC_B         795.000       635.000       90       "Thick Film Chip Resistor, 0402, 1MO, 0.5%, 50ppm/°C, 0.063W, 50V"                                                            
+R1         1M                TopLayer FP-MCR01-IPC_B         932.835       785.000       180      "Thick Film Chip Resistor, 0402, 1MO, 0.5%, 50ppm/°C, 0.063W, 50V"                                                            
+J2         SSQ-105-02-G-S-RA TopLayer SMTC-SSQ-105-02-X-S-RA 2180.000      1190.000      90       "SQ Post Socket, Through-hole, Right Angle, -55 to 125 degC, 2.54 mm Pitch, 5-Pin, Female, RoHS"                              
+J1         SSQ-102-01-G-S    TopLayer SMTC-SSQ-102-01-X-S    310.000       1180.000      90       "SQ Post Socket, Through-hole, Vertical, -55 to 125 degC, 2.54 mm Pitch, 2-Pin, Female, RoHS"                                 
+D2         1N4148            TopLayer FP-017AG-MFG           834.882       1000.000      0        "DIODE GEN PURP 100V 200MA DO35"                                                                                              
+D1         1N4148            TopLayer FP-017AG-MFG           834.882       875.000       180      "DIODE GEN PURP 100V 200MA DO35"                                                                                              
+C9         4.7n              TopLayer FP-CC0805-0_85-MFG     1895.000      1330.000      270      "CAP CER 0.047UF 50V X7R 0805"                                                                                                
+C8         0.47u             TopLayer FP-GCM188-0_1-IPC_A    1735.000      1325.000      270      "Ceramic Capacitor for Automotive 470nF  ±10% 16VDC X7R 0603 Paper T/R"                                                       
+C7         4.7u              TopLayer FP-TAJA-MFG            1570.000      1340.000      90       "4.7uF 20V  ±10% 4O 1206  SMD Tantalum Capacitor"                                                                             
+C6         4.7n              TopLayer FP-CC0805-0_85-MFG     1365.000      545.000       270      "CAP CER 0.047UF 50V X7R 0805"                                                                                                
+C5         0.47u             TopLayer FP-GCM188-0_1-IPC_A    1245.000      530.000       270      "Ceramic Capacitor for Automotive 470nF  ±10% 16VDC X7R 0603 Paper T/R"                                                       
+C4         4.7u              TopLayer FP-TAJA-MFG            1120.000      518.819       90       "4.7uF 20V  ±10% 4O 1206  SMD Tantalum Capacitor"                                                                             
+C3         4.7n              TopLayer FP-CC0805-0_85-MFG     1895.000      1100.000      90       "CAP CER 0.047UF 50V X7R 0805"                                                                                                
+C2         0.47u             TopLayer FP-GCM188-0_1-IPC_A    1735.000      1100.000      90       "Ceramic Capacitor for Automotive 470nF  ±10% 16VDC X7R 0603 Paper T/R"                                                       
+C1         4.7u              TopLayer FP-TAJA-MFG            1570.000      1083.819      270      "4.7uF 20V  ±10% 4O 1206  SMD Tantalum Capacitor"                                                                             
