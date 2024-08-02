@@ -22,9 +22,9 @@ This repository showcases a collection of my PCB design projects. Each project i
   - Feature 2
   - Feature 3
 - **Files:**
-  - [Schematics](link_to_schematics)
-  - [PCB Layout](link_to_pcb_layout)
-  - [Bill of Materials (BOM)](link_to_bom)
+  - [Schematics & PCB Layout](link_to_schematics)
+  - [Manufacting Files](link_to_pcb_layout)
+  - [Images](https://github.com/MatteoPearce/PCB-Design-Portfolio/tree/main/USB%20Oscilloscope%20Analog%20Front-End/Project%20Files)
 
 ### Project 2: Another Project
 - **Description:** Another detailed project description.
