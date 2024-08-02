@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ANALOG_READ Pin=J2-3
+Removed Pin From Net: NetName=V_REF_2.048V Pin=J2-5
+Added Pin To Net: NetName=V_REF_2.048V Pin=J2-3
+Added Pin To Net: NetName=ANALOG_READ Pin=J2-5
