@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Projects](#projects)
-  - [USB Oscilloscope Analog Front-End](#Project 1: USB Oscilloscope Analog Front-End)
+  - [USB Oscilloscope Analog Front-End](#Project-1:-USB-Oscilloscope-Analog-Front--End)
   - [Project 2: Another Project](#project-2-another-project)
 - [Tools and Technologies](#tools-and-technologies)
 - [Contact Information](#contact-information)
