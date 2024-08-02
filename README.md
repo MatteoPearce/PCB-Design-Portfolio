@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Projects](#projects)
-  - [Project 1: Example Project](#project-1-example-project)
+  - [USB Oscilloscope Analog Front-End](#Project 1: USB Oscilloscope Analog Front-End)
   - [Project 2: Another Project](#project-2-another-project)
 - [Tools and Technologies](#tools-and-technologies)
 - [Contact Information](#contact-information)
@@ -15,7 +15,7 @@ This repository showcases a collection of my PCB design projects. Each project i
 
 ## Projects
 
-### Project 1: Example Project
+### Project 1: USB Oscilloscope Analog Front-End
 - **Description:** A detailed description of the project, its purpose, and any relevant details.
 - **Key Features:** 
   - Feature 1
