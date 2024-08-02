@@ -3,8 +3,8 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Projects](#projects)
-  - [USB Oscilloscope Analog Front End](#project-1-usb-oscilloscope-analog-front-end)
-  - [Project 2: Another Project](#project-2-another-project)
+  - [Project 1: USB Oscilloscope Analog Front End](#project-1-usb-oscilloscope-analog-front-end)
+  - [Project 2: Power Regulator Board Shield](#project-2-power-regulator-board-shield)
 - [Tools and Technologies](#tools-and-technologies)
 - [Contact Information](#contact-information)
 
@@ -16,17 +16,20 @@ This repository showcases a collection of my PCB design projects. Each project i
 ## Projects
 
 ### Project 1: USB Oscilloscope Analog Front End
-- **Description:** A detailed description of the project, its purpose, and any relevant details.
+- **Description:** Analog Front End for a low-cost USB Oscilloscope and Function Generator using the Nucleo-F303RE board, aimed at students and entry level enthusiasts.
 - **Key Features:** 
-  - Feature 1
-  - Feature 2
-  - Feature 3
-- **Files:**
-  - [Schematics & PCB Layout](link_to_schematics)
-  - [Manufacting Files](link_to_pcb_layout)
-  - [Images](https://github.com/MatteoPearce/PCB-Design-Portfolio/tree/main/USB%20Oscilloscope%20Analog%20Front-End/Project%20Files)
+  - Low distortion of sinewave up to ±15.9V at 300kHz.
+  - Low distortion at ±15.9V up to 600kHz.
+  - Low quiescent power consumption between 4.8mW < x < 8.8mW.
+  - Simple BOM and compact PCB footprint.
+  - Easily portable design.
 
-### Project 2: Another Project
+- **Files:**
+  - [Schematics & PCB Layout](https://github.com/MatteoPearce/PCB-Design-Portfolio/tree/main/USB%20Oscilloscope%20Analog%20Front-End/Project%20Files)
+  - [Manufacting Files](https://github.com/MatteoPearce/PCB-Design-Portfolio/tree/main/USB%20Oscilloscope%20Analog%20Front-End/Project%20Outputs)
+  - [Images](https://github.com/MatteoPearce/PCB-Design-Portfolio/tree/main/USB%20Oscilloscope%20Analog%20Front-End/Images)
+
+### Project 2: Power Regulator Board Shield
 - **Description:** Another detailed project description.
 - **Key Features:**
   - Feature 1
