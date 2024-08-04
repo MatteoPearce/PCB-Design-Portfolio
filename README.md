@@ -30,15 +30,16 @@ This repository showcases a collection of my PCB design projects. Each project i
   - [Images](https://github.com/MatteoPearce/PCB-Design-Portfolio/tree/main/USB%20Oscilloscope%20Analog%20Front-End/Images)
 
 ### Project 2: Power Regulator Board Shield
-- **Description:** Another detailed project description.
+- **Description:** Step-down power regulator boardshield with LED bank for Arduino Uno.
 - **Key Features:**
-  - Feature 1
-  - Feature 2
-  - Feature 3
+  - 12 V DC input.
+  - 5 V DC output.
+  - 90%+ power efficiency.
+  - 
 - **Files:**
-  - [Schematics](link_to_schematics)
-  - [PCB Layout](link_to_pcb_layout)
-  - [Bill of Materials (BOM)](link_to_bom)
+  - [Schematics & PCB Layout](https://github.com/MatteoPearce/PCB-Design-Portfolio/tree/main/Power%20Regulator%20Shield%20for%20Arduino%20Uno/Project%20Files)
+  - [Manufacting Files](https://github.com/MatteoPearce/PCB-Design-Portfolio/tree/main/Power%20Regulator%20Shield%20for%20Arduino%20Uno/Project%20Outputs)
+  - [Images](https://github.com/MatteoPearce/PCB-Design-Portfolio/tree/main/Power%20Regulator%20Shield%20for%20Arduino%20Uno/Images)
 
 ## Tools and Technologies
 - Altium Designer
