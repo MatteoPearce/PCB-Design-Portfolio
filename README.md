@@ -35,7 +35,7 @@ This repository showcases a collection of my PCB design projects. Each project i
   - 12 V DC input.
   - 5 V DC output.
   - 2A Current output.
-  - 650kHz max switching frequency.
+  - 650kHz switching frequency.
   - 90%+ power efficiency.
   - 
 - **Files:**
